@@ -28,7 +28,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/Gustaafvito/Kali-Optimizer.git](https://github.com/Gustaafvito/Kali-Optimizer.git)
+git clone https://github.com/Gustaafvito/Kali-Optimizer.git
 cd Kali-Optimizer
 ```
 2. Dar permisos de ejecución
